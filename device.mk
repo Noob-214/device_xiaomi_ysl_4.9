@@ -366,9 +366,7 @@ PRODUCT_PACKAGES += \
     init.ysl.rc
 
 PRODUCT_PACKAGES += \
-    init.qcom.bt.sh \
-    move_time_data.sh \
-    move_wifi_data.sh
+    init.qcom.bt.sh 
 
 # Remove unwanted packages
 PRODUCT_PACKAGES += \
