@@ -52,6 +52,13 @@ persist.vendor.qcom.bluetooth.soc=pronto \
 ro.bluetooth.a2dp_offload.supported=false \
 vendor.qcom.bluetooth.soc=pronto
 
+PRODUCT_PROPERTY_OVERRIDES += \
+persist.vendor.bt.a2dp.aac_whitelist=false \
+persist.vendor.qcom.bluetooth.enable.splita2dp=false \
+ro.vendor.bluetooth.wipower=false \
+ro.bluetooth.library_name=libbluetooth_qti.so
+
+
 # BPF
 PRODUCT_PROPERTY_OVERRIDES += \
 ro.kernel.ebpf.supported=true
