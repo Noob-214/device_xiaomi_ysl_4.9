@@ -14,9 +14,9 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/revengeos_ysl.mk
+    $(LOCAL_DIR)/xtended_ysl.mk
 
 COMMON_LUNCH_CHOICES := \
-    revengeos_ysl-user \
-    revengeos_ysl-userdebug \
-    revengeos_ysl-eng
+    xtended_ysl-user \
+    xtended_ysl-userdebug \
+    xtended_ysl-eng
