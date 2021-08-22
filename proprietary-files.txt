@@ -784,6 +784,9 @@ vendor/lib64/vendor.qti.hardware.slmadapter@1.0.so|07bf28004086b972367c44703bd02
 # Charger - from daisy-user 10 QKQ1.191002.002 V11.0.19.0.QDLMIXM release-keys
 vendor/bin/hvdcp_opti|bd0808db92452c5fd7ec272a35924f23fb4ffa01
 
+# Charger | From begonia 11-RP1A.200720.011 21.3.3
+bin/charger:bin/chargeonlymode|bb74c36cee72b1f2e2c8090eb6f21352eba8e83f
+
 # DPM - from LA.UM.9.6.2.r1-03600-89xx.0
 framework/tcmclient.jar|cdd1ea7143a5a7acc3909b5cfa706650179647c7
 system_ext/bin/dpmd|11ee284b40fb8276636520a3ca8e3558be914e62
