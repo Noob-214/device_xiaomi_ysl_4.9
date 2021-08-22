@@ -28,7 +28,7 @@ $(call inherit-product, $(SRC_TARGET_DIR)/product/telephony_system_ext.mk)
 $(call inherit-product, device/xiaomi/ysl/device.mk)
 
 # Inherit some common Xtended stuff.
-$(call inherit-product, vendor/xtended/config/common.mk)
+$(call inherit-product, vendor/xtended/config/common_full_phone.mk)
 
 # Inherit some common Xtended flags
 TARGET_BOOT_ANIMATION_RES := 720
