@@ -600,5 +600,8 @@
     <!-- Amount of time in ms the user needs to press the relevant keys to trigger the
          screenshot chord -->
    <integer name="config_screenshotChordKeyTimeout">0</integer>
+
+   <!-- Set the default dialer package name. -->
+    <string name="config_defaultDialer" translatable="false">com.android.dialer</string>
    
 </resources>
