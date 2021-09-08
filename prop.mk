@@ -284,3 +284,6 @@ sys.vendor.shutdown.waittime=500
 # Enable QC2 bufferqueue block-pool
 PRODUCT_PROPERTY_OVERRIDES += \
 vendor.qc2.use.bqpool=1
+
+# ysl
+hwui.disable_vsync=true
