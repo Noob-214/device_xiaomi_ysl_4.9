@@ -17,7 +17,16 @@
  */
 -->
 <resources>
+    <!-- default automatic brightness mode -->
     <bool name="def_screen_brightness_automatic_mode">true</bool>
-    
+    <!-- default screen off timeout -->
+    <integer name="def_screen_off_timeout">30000</integer>   
+    <!-- default window animation scale -->
+    <fraction name="def_window_animation_scale">25%</fraction>
+    <fraction name="def_window_transition_scale">25%</fraction> 
+    <!-- disable location services by default -->
+    <integer name="def_location_mode">0</integer>
+    <bool name="assisted_gps_enabled">false</bool>
+    <!--disable bluetooth by default -->
     <bool name="def_bluetooth_on">false</bool>
 </resources>
