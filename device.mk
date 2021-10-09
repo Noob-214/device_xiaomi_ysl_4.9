@@ -177,7 +177,6 @@ PRODUCT_PACKAGES += \
     libqdMetaData.vendor \
     libqdMetaData.system \
     libgenlock \
-    libtinyxml \
     libstagefright_enc_common \
     libvulkan \
     vendor.display.config@2.0 \
@@ -370,8 +369,6 @@ PRODUCT_PACKAGES += \
 
 # RIL
 PRODUCT_PACKAGES += \
-    android.hardware.secure_element@1.0 \
-    librmnetctl \
     libcnefeatureconfig \
     libxml2 \
     qti-telephony-hidl-wrapper \
