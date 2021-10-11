@@ -72,8 +72,6 @@ vendor/etc/acdbdata/MTP/MTP_Headset_cal.acdb|fe0160756c94ff41c1669e82e3a8ef8e828
 vendor/etc/acdbdata/MTP/MTP_Speaker_cal.acdb|648159a5a7cd7760a512f27a226741336ebabc9e
 vendor/etc/acdbdata/MTP/MTP_workspaceFile.qwsp|44c0284d7fc1f4153a731d0792d71472109e9da2
 
-# ANT+ (vendor) - from LA.UM.8.6.2.r1-03700-89xx.0
-vendor/lib64/com.qualcomm.qti.ant@1.0.so|29ecc1a9134dd2146f358e65c830059d3fa6c6d9
 
 # Bluetooth (aptX) - from sunfish-user 11 RQ1A.210205.004 7038034 release-keys
 system_ext/lib64/libaptX_encoder.so|df1c89d7af1bb35808d5fe3496b04ba066c10cbc
@@ -838,13 +836,6 @@ vendor/lib/libgf_hal.so|8548dd9a56dfe83e355e804bbd7b0cdf2cec4171
 vendor/lib/libvendor.goodix.hardware.fingerprint@1.0-service.so|62acb9c6bffed5109301d7f0cc14c73eb5ce5662
 vendor/lib/libvendor.goodix.hardware.fingerprint@1.0.so|4715ee65ca0f2ae4de91d84afb6e796c12fb3c0b
 vendor/lib/vendor.qti.hardware.fingerprint@1.0.so|eba263a51ebb4754437c1639aa2cab772af92c26
-
-# FM - from LA.UM.9.6.2.r1-03600-89xx.0
-system_ext/lib64/fm_helium.so|55ef376cc802574df92025bebaba1cebcc74a918
-system_ext/lib64/libfm-hci.so|0cfbf3d84724428721973cc7ad22f5d1e1368591
--system_ext/lib64/vendor.qti.hardware.fm@1.0.so|4a2522113d6b737a87d3b43233f1afa94d9e45ad
-vendor/lib64/vendor.qti.hardware.fm@1.0.so|17e86e9a2054db733d955fcf1066f6e06a44fb21
-vendor/lib64/hw/vendor.qti.hardware.fm@1.0-impl.so|66c50040a46dfa7fcefda85ddd009bff2b76f6b8
 
 # Gatekeeper - from LA.UM.8.6.2.r1-06600-89xx.0
 vendor/lib/hw/gatekeeper.msm8953.so|c153dbbd2c31ccee8633837961ce79909257af04
