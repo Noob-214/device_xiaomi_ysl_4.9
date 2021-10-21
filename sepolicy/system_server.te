@@ -6,6 +6,7 @@ allow system_server vendor_keylayout_file:file r_file_perms;
 
 allow system_server sysfs_rtc:file r_file_perms;
 allow system_server goodix_fp_hwservice:hwservice_manager find;
+allow system_server crash_dump:process { getpgid };
 
 # Input devices
 r_dir_file(system_server, vendor_idc_file);
