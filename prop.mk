@@ -291,3 +291,7 @@ vendor.qc2.use.bqpool=1
 
 # ysl
 hwui.disable_vsync=true
+# ZRAM writeback
+ro.zram.mark_idle_delay_mins=60 \
+ro.zram.first_wb_delay_mins=180 \
+ro.zram.periodic_wb_delay_hours=24
