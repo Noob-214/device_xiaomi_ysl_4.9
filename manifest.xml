@@ -422,6 +422,7 @@
             <name>IBTConfigStore</name>
             <instance>default</instance>
         </interface>
+     </hal>
     <hal format="hidl">
         <name>vendor.qti.hardware.cryptfshw</name>
         <transport>hwbinder</transport>
