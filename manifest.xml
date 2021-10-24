@@ -412,6 +412,7 @@
         <interface>
             <name>IBTConfigStore</name>
             <instance>default</instance>
+            <fqname>@2.0::IBTConfigStore/default</fqname>
         </interface>
     </hal>
     <hal format="hidl">
@@ -421,6 +422,7 @@
         <interface>
             <name>IBTConfigStore</name>
             <instance>default</instance>
+            <fqname>@1.0::IBTConfigStore/default</fqname>
         </interface>
      </hal>
     <hal format="hidl">
