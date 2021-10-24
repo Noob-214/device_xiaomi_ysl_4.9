@@ -1,0 +1,5 @@
+#
+# system_ext prop for ysl
+#
+
+persist.vendor.dpm.feature=11
