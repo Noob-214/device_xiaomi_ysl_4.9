@@ -841,6 +841,9 @@ vendor/lib/libvendor.goodix.hardware.fingerprint@1.0-service.so|62acb9c6bffed510
 vendor/lib/libvendor.goodix.hardware.fingerprint@1.0.so|4715ee65ca0f2ae4de91d84afb6e796c12fb3c0b
 vendor/lib/vendor.qti.hardware.fingerprint@1.0.so|eba263a51ebb4754437c1639aa2cab772af92c26
 
+#FM
+vendor/lib64/vendor.qti.hardware.fm@1.0.so|f7494923e84b136a44f02699082a7e0a380f94e9
+
 # Gatekeeper - from LA.UM.8.6.2.r1-06600-89xx.0
 vendor/lib/hw/gatekeeper.msm8953.so|c153dbbd2c31ccee8633837961ce79909257af04
 vendor/lib64/hw/gatekeeper.msm8953.so|2982026cfb7911d279bd4c9be3a02ad21cdb54ec
