@@ -16,11 +16,9 @@
 */
 -->
 <resources>
-    <!-- Radius of the software rounded corners at the top of the display in its natural
-        orientation. If zero, the value of rounded_corner_radius is used. -->
-    <dimen name="rounded_corner_radius_top">19dp</dimen>
-
-    <!-- Radius of the software rounded corners at the bottom of the display in its natural
-        orientation. If zero, the value of rounded_corner_radius is used. -->
-    <dimen name="rounded_corner_radius_bottom">19dp</dimen>
+    
+    <!-- Rounded Corner -->
+    <dimen name="rounded_corner_radius">11dp</dimen>
+    <dimen name="rounded_corner_radius_top">26dp</dimen>
+    <dimen name="rounded_corner_radius_bottom">26dp</dimen>
 </resources>

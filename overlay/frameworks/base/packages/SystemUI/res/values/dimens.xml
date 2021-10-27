@@ -20,4 +20,7 @@
 <!--  Blur radius  -->
 <dimen name="max_window_blur_radius">60dp</dimen>
 
+<!-- Rounded Corner -->
+<dimen name="rounded_corner_content_padding">13dp</dimen>
+
 </resources>
