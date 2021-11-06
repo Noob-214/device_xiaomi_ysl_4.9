@@ -20,6 +20,9 @@ DEVICE_PATH := device/xiaomi/ysl
 BUILD_BROKEN_DUP_RULES := true
 BUILD_BROKEN_USES_BUILD_COPY_HEADERS := true
 
+# Neverallows
+SELINUX_IGNORE_NEVERALLOWS := true
+
 # ANT
 BOARD_ANT_WIRELESS_DEVICE := "vfs-prerelease"
 
